@@ -1,10 +1,16 @@
 _repo: A-Book-of-Giants-Tales-of-very-Tall-Men-of-Myth-Legend-History-and-Science_48763
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48763-h/images/cover.jpg
 creator:
   author:
     agent_name: Lanier, Henry Wysham
     gutenberg_agent_id: '44958'
     url: http://www.gutenberg.org/2009/agents/44958
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48763#A-Book-of-Giants-Tales-of-very-Tall-Men-of-Myth-Legend-History-and-Science
 gutenberg_issued: '2015-04-22'
 gutenberg_type: Text
 identifiers:
